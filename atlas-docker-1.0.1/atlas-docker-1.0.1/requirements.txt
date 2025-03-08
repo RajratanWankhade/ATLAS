@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+argparse
+nibabel
+numpy
